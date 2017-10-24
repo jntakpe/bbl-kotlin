@@ -1,0 +1,8 @@
+{
+    "name": "bbl-kotlin",
+    "version": "0.1.0",
+    "dependencies": {
+        "reveal.js": "~3.5.0",
+        "highlightjs": "~9.12.0"
+    }
+}

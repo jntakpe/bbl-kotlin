@@ -1,0 +1,10 @@
+{
+    "generator-reveal": {
+        "presentationTitle": "BBL Kotlin",
+        "packageVersion": "0.1.0",
+        "useSass": true,
+        "deployToGithubPages": true,
+        "githubUsername": "jntakpe",
+        "githubRepository": "bbl-kotlin"
+    }
+}
