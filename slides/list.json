@@ -1,3 +1,18 @@
 [
-    "index.md"
+    "index.md",
+    [
+        "keywords/keywords.md",
+        "keywords/background.md",
+        "keywords/state.md",
+        "keywords/language.md",
+        "keywords/where.md"
+    ],
+    [
+        "compare.md"
+    ],
+    [
+        "syntax/syntax.md",
+        "syntax/fun.md",
+        "syntax/local-var.md"
+    ]
 ]

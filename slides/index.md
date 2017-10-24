@@ -1,16 +1,7 @@
-
 # BBL Kotlin
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```java
-public class Test {
-    private static String test = "test";
-}
-```
+Communauté architecture vertical bancaire
  
- 
+Jeudi 26 octobre
+
+Jocelyn N'TAKPE 
