@@ -12,7 +12,13 @@
     ],
     [
         "syntax/syntax.md",
+        "syntax/local-var.md",
         "syntax/fun.md",
-        "syntax/local-var.md"
+        "syntax/class.md",
+        "syntax/string-template.md",
+        "syntax/condition.md"
+    ],
+    [
+        "features/null.md"
     ]
 ]
