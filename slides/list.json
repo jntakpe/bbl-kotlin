@@ -19,6 +19,15 @@
         "syntax/condition.md"
     ],
     [
-        "features/null.md"
+        "features/immutability.md",
+        "features/null.md",
+        "features/null-handling.md",
+        "features/property-access.md",
+        "features/data-class.md",
+        "features/when.md",
+        "features/destructuring.md",
+        "features/cast.md",
+        "features/lambda.md",
+        "features/high-order-fun.md"
     ]
 ]
