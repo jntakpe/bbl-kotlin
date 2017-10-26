@@ -7,9 +7,7 @@
         "keywords/language.md",
         "keywords/where.md"
     ],
-    [
-        "compare.md"
-    ],
+    "compare.md",
     [
         "syntax/syntax.md",
         "syntax/local-var.md",
@@ -22,12 +20,21 @@
         "features/immutability.md",
         "features/null.md",
         "features/null-handling.md",
+        "features/types.md",
+        "features/exceptions.md",
         "features/property-access.md",
         "features/data-class.md",
+        "features/default-parameters.md",
+        "features/named-parameters.md",
         "features/when.md",
         "features/destructuring.md",
         "features/cast.md",
         "features/lambda.md",
-        "features/high-order-fun.md"
+        "features/inline.md",
+        "features/fun-ext.md",
+        "features/high-order-fun.md",
+        "features/std-lib.md",
+        "features/dsl.md",
+        "features/delegated-properties.md"
     ]
 ]

@@ -8,7 +8,10 @@ val idStr3 = id?.let {
     doSomething()
     it.toString()
 }
+val idStr4 = id!!.toString()
 ```
+
+Uses @NotNull and @Nullable annotations from JDK (no perf overhead)
 
 * [Kotlin](https://github.com/jntakpe/release-monitor/blob/8e6b61b31cab2a0086268155c3dd323dfdf66ada/src/main/kotlin/com/github/jntakpe/releasemonitor/mapper/ApplicationMappings.kt#L7)
 
