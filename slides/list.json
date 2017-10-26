@@ -1,5 +1,6 @@
 [
     "index.md",
+    "sources.md",
     [
         "keywords/keywords.md",
         "keywords/background.md",
@@ -35,6 +36,7 @@
         "features/high-order-fun.md",
         "features/std-lib.md",
         "features/dsl.md",
-        "features/delegated-properties.md"
+        "features/delegated-properties.md",
+        "features/other.md"
     ]
 ]
